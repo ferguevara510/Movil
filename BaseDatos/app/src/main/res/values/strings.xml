@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Conexión a BD</string>
+
+    <string-array name="generos">
+        <item>Acción</item>
+        <item>Aventura</item>
+        <item>Cienci Ficción</item>
+        <item>Drama</item>
+        <item>Romance</item>
+        <item>Terror</item>
+    </string-array>
+
+
+</resources>

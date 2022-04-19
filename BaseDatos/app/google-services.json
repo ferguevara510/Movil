@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1074977868723",
+    "firebase_url": "https://peliculas2022-6607b-default-rtdb.firebaseio.com",
+    "project_id": "peliculas2022-6607b",
+    "storage_bucket": "peliculas2022-6607b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074977868723:android:28a5bdf4febfb75ecbd9c6",
+        "android_client_info": {
+          "package_name": "com.example.iniciosesion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074977868723-8e0ahcu2b5n62gdqn02uij88sh4il921.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9MjaQCaA5HDaZia7grKq-zNEp7kM5Z6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074977868723-8e0ahcu2b5n62gdqn02uij88sh4il921.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
